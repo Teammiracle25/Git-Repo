@@ -1,0 +1,7 @@
+<!doctype html>
+<html>
+<head><title>ekitapp</head></title>
+<body>
+our aim is to give a good platform
+</body>
+</html>
